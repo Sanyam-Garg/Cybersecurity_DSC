@@ -10,7 +10,7 @@ Great to see you guys showing interest in Cybersecurity!! For the first task, yo
     * [HTTP in detail](https://tryhackme.com/room/httpindetail)
 
 * It is advised to go through the above rooms in a chronological order.
-> PS: Rooms on tryhackme are basically modules consisting of a educational and practical material on a certain topic.
+> PS: Rooms on tryhackme are basically modules consisting of educational and practical material on a certain topic.
 
 ## What to do?
 * You need to go through the above rooms extensively, and try to understand these basics. If you get stuck anywhere, Google is your best friend!
